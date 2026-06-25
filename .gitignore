@@ -1,0 +1,14 @@
+# Local upstream source (kept for analysis only; CI clones it fresh)
+reference/
+dlc-src/
+
+# Generated output (published to the rule-set / domain-set branches, not main)
+rule-set/
+domain-set/
+
+# Python
+__pycache__/
+*.pyc
+
+# Claude Code local settings (machine-specific; not for sharing)
+.claude/settings.local.json

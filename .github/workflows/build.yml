@@ -1,0 +1,60 @@
+name: Build Surge geosite
+
+on:
+  schedule:
+    - cron: '30 4 * * *'      # daily ~04:30 UTC
+  workflow_dispatch:           # manual run (never skips)
+  push:
+    branches: [ main ]
+    paths:
+      - 'surge-geosite.py'
+      - '.github/workflows/build.yml'
+      - '.github/publish-branch.sh'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build
+  cancel-in-progress: false
+
+jobs:
+  build:
+    name: Build & publish
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch upstream data & check version
+        run: |
+          git clone --depth 1 https://github.com/v2fly/domain-list-community.git dlc-src
+          NEW=$(git -C dlc-src rev-parse --short HEAD)
+          echo "DLC_SHA=$NEW" >> "$GITHUB_ENV"
+          PREV=$(curl -sfL "https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/rule-set/VERSION" || echo none)
+          echo "upstream=$NEW  last-built=$PREV  event=${{ github.event_name }}"
+          if [ "$NEW" = "$PREV" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "SKIP=true" >> "$GITHUB_ENV"
+            echo "No upstream change -> skipping rebuild."
+          fi
+
+      - name: Generate rule-set & domain-set
+        if: env.SKIP != 'true'
+        run: |
+          python surge-geosite.py dlc-src/data
+          echo "$DLC_SHA" > rule-set/VERSION
+          echo "$DLC_SHA" > domain-set/VERSION
+          echo "rule-set: $(ls rule-set | wc -l) files | domain-set: $(ls domain-set | wc -l) files"
+
+      - name: Publish branches
+        if: env.SKIP != 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          bash ./.github/publish-branch.sh rule-set   "$DLC_SHA"
+          bash ./.github/publish-branch.sh domain-set "$DLC_SHA"
