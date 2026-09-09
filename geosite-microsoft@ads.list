@@ -1,0 +1,13 @@
+# Surge DOMAIN-SET: geosite-microsoft@ads
+# Source: v2fly/domain-list-community
+# Domains: 10
+.bingads.com
+.browser.events.data.msn.cn
+.browser.events.data.msn.com
+.clarity.ms
+.collector.github.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+.microsoftads.com
+.msads.net
+.nelreports.net

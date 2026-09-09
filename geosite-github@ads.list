@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-github@ads
+# Source: v2fly/domain-list-community
+# Domains: 3
+.collector.github.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com

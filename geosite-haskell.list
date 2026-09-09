@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-haskell
+# Source: v2fly/domain-list-community
+# Domains: 3
+.haskell.org
+.haskellstack.org
+.stackage.org

@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-readthedocs
+# Source: v2fly/domain-list-community
+# Domains: 4
+.readthedocs-hosted.com
+.readthedocs.com
+.readthedocs.io
+.readthedocs.org

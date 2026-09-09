@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-bluesky
+# Source: v2fly/domain-list-community
+# Domains: 3
+.bsky.app
+.bsky.network
+.bsky.social
