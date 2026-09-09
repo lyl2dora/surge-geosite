@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-inshot
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,inshot.cc
+DOMAIN-SUFFIX,inshot.com
+DOMAIN-SUFFIX,inshotapp.com

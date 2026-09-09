@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-xnxx
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
+DOMAIN-SUFFIX,xnxx.net
+DOMAIN-SUFFIX,xnxx.tv
+DOMAIN-SUFFIX,xnxx3.com

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-deppon
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,deppon.com
+DOMAIN-SUFFIX,deppon.com.cn
+DOMAIN-SUFFIX,dpma.cc

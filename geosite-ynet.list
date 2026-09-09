@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-ynet
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ynet.cn
+DOMAIN-SUFFIX,ynet.com
+DOMAIN-SUFFIX,ynet.com.cn

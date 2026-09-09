@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-mzed
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,mzed.com

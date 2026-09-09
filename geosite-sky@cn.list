@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-sky@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,cn-cdn1.skymansion.net

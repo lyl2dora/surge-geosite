@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-nist
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,nist.gov
+DOMAIN-SUFFIX,time.gov

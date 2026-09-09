@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cylink
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cylink.pro
+DOMAIN-SUFFIX,cylink0122.icu

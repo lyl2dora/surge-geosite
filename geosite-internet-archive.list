@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-internet-archive
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,archive-it.org
+DOMAIN-SUFFIX,archive.org
+DOMAIN-SUFFIX,openlibrary.org

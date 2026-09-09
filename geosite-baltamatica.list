@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-baltamatica
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,baltamatica.cn
+DOMAIN-SUFFIX,baltamatica.com
+DOMAIN-SUFFIX,baltamatica.net
+DOMAIN-SUFFIX,baltamatica.org.cn

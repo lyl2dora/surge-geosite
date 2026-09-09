@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cmb@!cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cmbi.com.hk
+DOMAIN-SUFFIX,cmbwinglungbank.com

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-ikea@cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,ikea.cn
+DOMAIN-SUFFIX,ingka-dt.cn
+DOMAIN-SUFFIX,ingka-internal.cn
+DOMAIN-SUFFIX,ingka-system.cn

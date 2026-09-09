@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-fonbet
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,bk6bba-resources.com
+DOMAIN-SUFFIX,bk6bba-resources.ru
+DOMAIN-SUFFIX,fon.bet
+DOMAIN-SUFFIX,fon.promo

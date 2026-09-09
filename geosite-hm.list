@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-hm
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,hm.com
+DOMAIN-SUFFIX,hm.com.cn

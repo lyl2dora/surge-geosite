@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-whoosh
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,whoosh-bike.ru
+DOMAIN-SUFFIX,whoosh.bike

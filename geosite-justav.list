@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-justav
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,hkporn.net
+DOMAIN-SUFFIX,justav.net
+DOMAIN-SUFFIX,twporn.net

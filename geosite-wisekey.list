@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-wisekey
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,wisecoin.com
+DOMAIN-SUFFIX,wiseid.com
+DOMAIN-SUFFIX,wisekey.com
+DOMAIN-SUFFIX,wisekey.com.hk

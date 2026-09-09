@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-dailymotion
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,dailymotion.com
+DOMAIN-SUFFIX,dm-event.net
+DOMAIN-SUFFIX,dmcdn.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-github1s
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,github1s.com
+DOMAIN-SUFFIX,sourcegraph.com

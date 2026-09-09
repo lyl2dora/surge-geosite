@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-flyio
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,fly.dev
+DOMAIN-SUFFIX,fly.io
+DOMAIN-SUFFIX,flyio.net

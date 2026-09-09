@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-farfetch@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,farfetch.cn
+DOMAIN-SUFFIX,farfetch.com.cn
+DOMAIN-SUFFIX,farfetch.net.cn

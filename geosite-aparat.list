@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-aparat
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,aparat.com
+DOMAIN-SUFFIX,aparatkids.com
+DOMAIN-SUFFIX,aparatsport.com

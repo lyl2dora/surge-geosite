@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-ganji
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,58ganji-corp.com
+DOMAIN-SUFFIX,58ganji.com
+DOMAIN-SUFFIX,ganji.com
+DOMAIN-SUFFIX,ganjistatic1.com

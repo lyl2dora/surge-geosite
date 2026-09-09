@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-artstation
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,artstation.com
+DOMAIN-SUFFIX,artstationmedia.com

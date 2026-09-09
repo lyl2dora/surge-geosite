@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-cowtransfer
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,c-t.work
+DOMAIN-SUFFIX,cowcs.com
+DOMAIN-SUFFIX,cowtransfer.com

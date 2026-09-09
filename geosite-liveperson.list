@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-liveperson
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,liveperson.net
+DOMAIN-SUFFIX,lpsnmedia.net

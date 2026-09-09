@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-spankbang
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,spankbang.com
+DOMAIN-SUFFIX,spankbang.party

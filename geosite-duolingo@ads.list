@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-duolingo@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ads-api.duolingo.com
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

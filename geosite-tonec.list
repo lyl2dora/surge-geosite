@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-tonec
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,internetdownloadmanager.com
+DOMAIN-SUFFIX,registeridm.com
+DOMAIN-SUFFIX,tonec.com

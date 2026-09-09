@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-deepin@!cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,deepin.io
+DOMAIN-SUFFIX,deepin.org

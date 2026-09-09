@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-zhimeishe
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,168sex.top
+DOMAIN-SUFFIX,a7sex.com
+DOMAIN-SUFFIX,ctotires.com
+DOMAIN-SUFFIX,ferryclean.com
+DOMAIN-SUFFIX,zhimeishe888.com

@@ -1,0 +1,10 @@
+# Surge RULE-SET: geosite-rockstar
+# Source: v2fly/domain-list-community
+# Rules: 7
+DOMAIN-SUFFIX,rockstargames.com
+DOMAIN-SUFFIX,rockstarnorth.com
+DOMAIN-SUFFIX,rsg.ms
+DOMAIN-SUFFIX,rsg.sc
+DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+DOMAIN,media-rockstargames-com.akamaized.net
+DOMAIN,videos-rockstargames-com.akamaized.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-apple-podcasts@cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN,amp-api.podcasts.apple.com
+DOMAIN,podcasts.apple.com

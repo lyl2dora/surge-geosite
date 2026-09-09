@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-secom
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,managedpki.ne.jp
+DOMAIN-SUFFIX,secom.co.jp
+DOMAIN-SUFFIX,secomtrust.net

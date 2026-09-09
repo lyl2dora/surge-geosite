@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-category-communication@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,adsgram.ai
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net

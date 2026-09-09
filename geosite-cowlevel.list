@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cowlevel
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cdncl.net
+DOMAIN-SUFFIX,cowlevel.net

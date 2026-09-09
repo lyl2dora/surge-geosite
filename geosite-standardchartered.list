@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-standardchartered
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,sc.com
+DOMAIN-SUFFIX,standardchartered.com
+DOMAIN,standchartbank.sc.omtrdc.net
+DOMAIN,standchartbank.tt.omtrdc.net

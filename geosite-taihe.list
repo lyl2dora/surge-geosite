@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-taihe
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,91q.com
+DOMAIN-SUFFIX,dmhmusic.com
+DOMAIN-SUFFIX,showstart.com
+DOMAIN-SUFFIX,taihe.com
+DOMAIN-SUFFIX,taihemusic.cn
+DOMAIN-SUFFIX,th-music.com

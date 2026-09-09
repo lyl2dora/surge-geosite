@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-amd
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,amd.com
+DOMAIN-SUFFIX,amd.com.cn
+DOMAIN-SUFFIX,amdfanstore.com
+DOMAIN-SUFFIX,amdgaming.com
+DOMAIN-SUFFIX,radeon.com

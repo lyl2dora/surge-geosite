@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-watchout
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,waa.tw
+DOMAIN-SUFFIX,watchout.tw

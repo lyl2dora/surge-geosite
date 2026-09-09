@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-stripe
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,link.com
+DOMAIN-SUFFIX,stripe-terminal-local-reader.net
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,stripecdn.com

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bitly
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bit.ly
+DOMAIN-SUFFIX,bitly.com
+DOMAIN-SUFFIX,bitly.is

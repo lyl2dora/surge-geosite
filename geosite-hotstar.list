@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-hotstar
+# Source: v2fly/domain-list-community
+# Rules: 5 (regexp dropped 1)
+DOMAIN-SUFFIX,hotstar-cdn.net
+DOMAIN-SUFFIX,hotstar-labs.com
+DOMAIN-SUFFIX,hotstar.com
+DOMAIN-SUFFIX,hotstarext.com
+DOMAIN-SUFFIX,hsprepack.akamaized.net

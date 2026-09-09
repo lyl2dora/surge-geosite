@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-cabletv
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,cabletv.com.hk
+DOMAIN-SUFFIX,fantv.hk
+DOMAIN-SUFFIX,hkopentv.com
+DOMAIN-SUFFIX,hoy.tv
+DOMAIN-SUFFIX,i-cable.com

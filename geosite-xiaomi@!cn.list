@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-xiaomi@!cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,global.market.xiaomi.com

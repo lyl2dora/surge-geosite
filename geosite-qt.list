@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-qt
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,qt-project.org
+DOMAIN-SUFFIX,qt.io

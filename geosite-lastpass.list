@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-lastpass
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,lastpass.com
+DOMAIN-SUFFIX,lastpass.eu
+DOMAIN-SUFFIX,lputil.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-johren
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,johren.games
+DOMAIN-SUFFIX,johren.net

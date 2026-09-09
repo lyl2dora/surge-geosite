@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-bootcdn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,bootcdn.cn
+DOMAIN-SUFFIX,bootcdn.net
+DOMAIN-SUFFIX,bootcss.com
+DOMAIN-SUFFIX,phpcomposer.com
