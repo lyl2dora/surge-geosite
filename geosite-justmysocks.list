@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-justmysocks
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,justmysocks.net
+DOMAIN-SUFFIX,justmysocks1.net
+DOMAIN-SUFFIX,justmysocks2.net
+DOMAIN-SUFFIX,justmysocks4.net

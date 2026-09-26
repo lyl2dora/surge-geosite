@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-bluepoch-games
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,sl916.com

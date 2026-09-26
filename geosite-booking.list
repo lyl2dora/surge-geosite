@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-booking
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,booking.cn
+DOMAIN-SUFFIX,booking.com
+DOMAIN-SUFFIX,bstatic.com

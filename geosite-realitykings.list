@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-realitykings
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,realitykings.com
+DOMAIN-SUFFIX,rk.com

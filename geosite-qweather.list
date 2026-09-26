@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-qweather
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,hecdn.net
+DOMAIN-SUFFIX,heweather.net
+DOMAIN-SUFFIX,qweather.com
+DOMAIN-SUFFIX,qweather.net
+DOMAIN-SUFFIX,qweatherapi.com

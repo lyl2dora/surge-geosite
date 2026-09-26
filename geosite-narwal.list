@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-narwal
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,narwal.com
+DOMAIN-SUFFIX,narwaltech.com

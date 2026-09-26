@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-lianjia
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,beckyroom.com
+DOMAIN-SUFFIX,bkzhibo.com
+DOMAIN-SUFFIX,ke.com
+DOMAIN-SUFFIX,lianjia.com
+DOMAIN-SUFFIX,ljcdn.com

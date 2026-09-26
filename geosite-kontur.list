@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-kontur
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,kontur-inc.com
+DOMAIN-SUFFIX,kontur.host
+DOMAIN-SUFFIX,kontur.ru
+DOMAIN,metrika.kontur.ru
+DOMAIN,sentry.kontur.host

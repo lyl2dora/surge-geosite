@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-colorfulclouds
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,caiyunai.com
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,caiyuncdn.com
+DOMAIN-SUFFIX,colorfulclouds.com
+DOMAIN-SUFFIX,colorfulclouds.net
+DOMAIN-SUFFIX,xiaomengai.com

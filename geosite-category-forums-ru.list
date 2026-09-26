@@ -1,0 +1,13 @@
+# Surge RULE-SET: geosite-category-forums-ru
+# Source: v2fly/domain-list-community
+# Rules: 10
+DOMAIN-SUFFIX,dtf.ru
+DOMAIN-SUFFIX,opennet.dev
+DOMAIN-SUFFIX,opennet.ru
+DOMAIN-SUFFIX,pikabu.ru
+DOMAIN-SUFFIX,prodota.ru
+DOMAIN-SUFFIX,tischenko.su
+DOMAIN-SUFFIX,vc.ru
+DOMAIN-SUFFIX,yap.ru
+DOMAIN-SUFFIX,yapfiles.ru
+DOMAIN-SUFFIX,yaplakal.com

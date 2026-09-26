@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-vaptcha
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,vaptcha.com
+DOMAIN-SUFFIX,vaptcha.net

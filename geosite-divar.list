@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-divar
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,divar.cloud
+DOMAIN-SUFFIX,divar.ir
+DOMAIN-SUFFIX,divarcdn.com

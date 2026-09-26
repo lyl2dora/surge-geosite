@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-quip
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,quip-cdn.com
+DOMAIN-SUFFIX,quip.com
+DOMAIN-SUFFIX,quipelements.com

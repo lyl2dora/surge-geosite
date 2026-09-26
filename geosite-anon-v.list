@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-anon-v
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,anon-v.com
+DOMAIN-SUFFIX,anon-v.lol

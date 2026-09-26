@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-myfonts
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,myfonts.com
+DOMAIN-SUFFIX,myfonts.net

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-wistia
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,embedwistia-a.akamaihd.net
+DOMAIN-SUFFIX,wistia.com
+DOMAIN-SUFFIX,wistia.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-manhuagui
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,manhuagui.com
+DOMAIN-SUFFIX,mhgui.com

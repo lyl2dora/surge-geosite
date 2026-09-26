@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-csis
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,csis.org
+DOMAIN,csis-prod.s3.amazonaws.com

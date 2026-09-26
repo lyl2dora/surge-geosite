@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-picsee
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,pics.ee
+DOMAIN-SUFFIX,picsee.co
+DOMAIN-SUFFIX,picsee.pro
+DOMAIN-SUFFIX,pise.pw
+DOMAIN-SUFFIX,pros.ee
+DOMAIN-SUFFIX,pse.is

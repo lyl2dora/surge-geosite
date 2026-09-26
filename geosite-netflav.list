@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-netflav
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,netflav.com
+DOMAIN-SUFFIX,netflav1.com
+DOMAIN-SUFFIX,netflav5.com

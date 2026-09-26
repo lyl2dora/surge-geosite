@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-nypost
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,nypost.com
+DOMAIN-SUFFIX,nypost.help
+DOMAIN-SUFFIX,nypostreprints.com

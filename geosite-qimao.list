@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-qimao
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,jiuyue919.com
+DOMAIN-SUFFIX,qimao.com
+DOMAIN-SUFFIX,qm989.com
+DOMAIN-SUFFIX,qmniu.com
+DOMAIN-SUFFIX,quehu.com
+DOMAIN-SUFFIX,wtzw.com

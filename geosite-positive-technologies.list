@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-positive-technologies
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ptcloud.ru
+DOMAIN-SUFFIX,ptsecurity.com
+DOMAIN-SUFFIX,standoff365.com

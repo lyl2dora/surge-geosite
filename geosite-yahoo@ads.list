@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-yahoo@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ads.yahoo.com
+DOMAIN-SUFFIX,gemini.yahoo.com
+DOMAIN-SUFFIX,ysm.yahoo.com

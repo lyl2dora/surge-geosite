@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-qualcomm@cn
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,gpsonextra.net
+DOMAIN-SUFFIX,izatcloud.net
+DOMAIN-SUFFIX,qceventscenter.com.cn
+DOMAIN-SUFFIX,qualcomm.cn
+DOMAIN-SUFFIX,qualcomm.cn.cdn.cloudflare.net
+DOMAIN-SUFFIX,xtracloud.cn

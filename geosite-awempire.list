@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-awempire
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,awempire.com
+DOMAIN-SUFFIX,dditsadn.com
+DOMAIN-SUFFIX,dditscdn.com
+DOMAIN-SUFFIX,docleradn.com
+DOMAIN-SUFFIX,doclercdn.com

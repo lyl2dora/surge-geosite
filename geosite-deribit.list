@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-deribit
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,deribit.com
+DOMAIN,deribit.cdn.prismic.io

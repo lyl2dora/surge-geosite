@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-fontawesome
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,fortawesome.com

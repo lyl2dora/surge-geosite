@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-rumble
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,rmbl.ws
+DOMAIN-SUFFIX,rumble.com

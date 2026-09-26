@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-tailscale
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN-SUFFIX,ts.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-filimo
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,filimo.com
+DOMAIN-SUFFIX,filimo.school

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-certum
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,certum.pl
+DOMAIN-SUFFIX,ocsp-certum.com
+DOMAIN-SUFFIX,ocsp-responder.com

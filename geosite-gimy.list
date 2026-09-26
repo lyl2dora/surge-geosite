@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-gimy
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,gimy.cc
+DOMAIN-SUFFIX,gimy.co
+DOMAIN-SUFFIX,gimy.to
+DOMAIN-SUFFIX,gimy.tv

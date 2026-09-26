@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-meipian
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ivwen.com
+DOMAIN-SUFFIX,meipian.cn
+DOMAIN-SUFFIX,meipian.me

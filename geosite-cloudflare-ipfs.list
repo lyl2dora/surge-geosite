@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cloudflare-ipfs
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cf-ipfs.com
+DOMAIN-SUFFIX,cloudflare-ipfs.com

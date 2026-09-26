@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-boboporn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,boboporn.com
+DOMAIN-SUFFIX,boboporn.net
+DOMAIN-SUFFIX,bobovip.cc
+DOMAIN-SUFFIX,sesez.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-haveibeenpwned
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,haveibeenpwned.com
+DOMAIN-SUFFIX,pwnedpasswords.com

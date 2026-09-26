@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-softether
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,softether-download.com
+DOMAIN-SUFFIX,softether.org

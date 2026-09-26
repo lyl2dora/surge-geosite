@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-manus
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com

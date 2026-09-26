@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-aviasales
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,aviasales.com
+DOMAIN-SUFFIX,aviasales.ru
+DOMAIN-SUFFIX,avs.io

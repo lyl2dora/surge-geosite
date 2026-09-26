@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-rthk
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,etvonline.hk
+DOMAIN-SUFFIX,rthk.hk

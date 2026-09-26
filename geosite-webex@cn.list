@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-webex@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,webex.com.cn

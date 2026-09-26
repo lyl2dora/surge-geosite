@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-chinaunicom@!cn
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,chinaunicom.com.hk
+DOMAIN-SUFFIX,chinaunicomglobal.com
+DOMAIN-SUFFIX,cuguplus.com
+DOMAIN-SUFFIX,cuniq.com
+DOMAIN-SUFFIX,cuniq.sg

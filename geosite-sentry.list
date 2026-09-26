@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-sentry
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,getsentry.com
+DOMAIN-SUFFIX,sentry-cdn.com
+DOMAIN-SUFFIX,sentry.dev
+DOMAIN-SUFFIX,sentry.io

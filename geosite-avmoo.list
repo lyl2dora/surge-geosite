@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-avmoo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,avmoo.click
+DOMAIN-SUFFIX,avmoo.com
+DOMAIN-SUFFIX,tellme.pw

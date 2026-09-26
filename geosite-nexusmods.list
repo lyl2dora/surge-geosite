@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-nexusmods
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,nexusmods.com

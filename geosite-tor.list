@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-tor
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,exit
+DOMAIN-SUFFIX,onion
+DOMAIN-SUFFIX,tor

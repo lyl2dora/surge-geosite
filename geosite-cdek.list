@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-cdek
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ad-cdek.ru
+DOMAIN-SUFFIX,cdek.ru
+DOMAIN-SUFFIX,cdek.shopping

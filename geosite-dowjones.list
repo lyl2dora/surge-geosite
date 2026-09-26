@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-dowjones
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,djreprints.com
+DOMAIN-SUFFIX,dowjones.com
+DOMAIN-SUFFIX,dowjones.io
+DOMAIN-SUFFIX,dowjoneson.com

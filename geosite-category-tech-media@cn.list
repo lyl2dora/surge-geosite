@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-category-tech-media@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,thetype.cloud

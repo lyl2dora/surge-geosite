@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-kugou@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ads.service.kugou.com
+DOMAIN-SUFFIX,adserviceretry.kglink.cn
+DOMAIN-SUFFIX,adserviceretry.kugou.com

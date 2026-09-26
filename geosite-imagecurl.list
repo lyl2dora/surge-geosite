@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-imagecurl
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,imagecurl.com
+DOMAIN-SUFFIX,imagecurl.org
+DOMAIN-SUFFIX,imgcrl.org

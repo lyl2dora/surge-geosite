@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-category-ip-geo-detect@cn
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,ipify.cn
+DOMAIN-SUFFIX,iplark.com
+DOMAIN-SUFFIX,ipw.cn
+DOMAIN-SUFFIX,testipv6.cn
+DOMAIN-SUFFIX,whois.pconline.com.cn

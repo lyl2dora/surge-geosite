@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-gemfury
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,fury.blog
+DOMAIN-SUFFIX,fury.co
+DOMAIN-SUFFIX,fury.dev
+DOMAIN-SUFFIX,fury.help
+DOMAIN-SUFFIX,fury.io
+DOMAIN-SUFFIX,gemfury.com

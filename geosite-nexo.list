@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-nexo
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,nexo.com
+DOMAIN-SUFFIX,nexo.io
