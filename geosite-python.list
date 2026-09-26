@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-python
+# Source: v2fly/domain-list-community
+# Domains: 6
+.pycon.org
+.pypa.io
+.pypi.io
+.pypi.org
+.python.org
+.pythonhosted.org

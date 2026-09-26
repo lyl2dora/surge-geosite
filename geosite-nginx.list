@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-nginx
+# Source: v2fly/domain-list-community
+# Domains: 2
+.nginx.com
+.nginx.org

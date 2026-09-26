@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-archlinux
+# Source: v2fly/domain-list-community
+# Domains: 6
+.archlinux.de
+.archlinux.org
+.archlinux.page
+.archlinuxarm.org
+.archlinuxcn.org
+.pkgbuild.com

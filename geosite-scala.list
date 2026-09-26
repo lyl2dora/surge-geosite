@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-scala
+# Source: v2fly/domain-list-community
+# Domains: 2
+.scala-lang.org
+.scala-sbt.org

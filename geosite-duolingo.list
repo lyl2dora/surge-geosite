@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-duolingo
+# Source: v2fly/domain-list-community
+# Domains: 5
+.ads-api.duolingo.com
+.analytics.vpc.duolingo.com
+.duolingo.cn
+.duolingo.com
+.metrics.duolingo.com

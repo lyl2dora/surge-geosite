@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-opensourceinsights
+# Source: v2fly/domain-list-community
+# Domains: 4
+.deps.dev
+.deps.info
+.opensourceinsight.dev
+.opensourceinsights.dev

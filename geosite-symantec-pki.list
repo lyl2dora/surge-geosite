@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-symantec-pki
+# Source: v2fly/domain-list-community
+# Domains: 5
+.pki.symantec.com
+.symauth.com
+.symcb.com
+.symcd.com
+.ws.symantec.com

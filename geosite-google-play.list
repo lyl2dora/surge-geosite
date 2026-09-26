@@ -1,0 +1,11 @@
+# Surge DOMAIN-SET: geosite-google-play
+# Source: v2fly/domain-list-community
+# Domains: 8 (regexp dropped 2)
+.googleplay.com
+.play-fe.googleapis.com
+.play-games.googleusercontent.com
+.play-lh.googleusercontent.com
+.play.google.com
+.play.googleapis.com
+redirector.c.play.google.com
+.xn--ngstr-lra8j.com

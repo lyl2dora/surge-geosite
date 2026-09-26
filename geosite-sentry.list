@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-sentry
+# Source: v2fly/domain-list-community
+# Domains: 4
+.getsentry.com
+.sentry-cdn.com
+.sentry.dev
+.sentry.io
