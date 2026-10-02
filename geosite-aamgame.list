@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-aamgame
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,aamgame.com
+DOMAIN-SUFFIX,aamgame.mobi
+DOMAIN-SUFFIX,aamgame.net
+DOMAIN-SUFFIX,aamsmart.com
+DOMAIN-SUFFIX,singworld.net

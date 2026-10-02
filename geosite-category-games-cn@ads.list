@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-category-games-cn@ads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,kurogames-ads.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com

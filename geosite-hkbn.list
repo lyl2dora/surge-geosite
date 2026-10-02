@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-hkbn
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,csifund.org
+DOMAIN-SUFFIX,hkbn.com.hk
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,jos.com
+DOMAIN-SUFFIX,speedtest.com.hk

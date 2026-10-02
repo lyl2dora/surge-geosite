@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-hupu
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,hoopchina.com.cn
+DOMAIN-SUFFIX,hupu.com
+DOMAIN-SUFFIX,hupucdn.com
+DOMAIN-SUFFIX,shihuo.cn

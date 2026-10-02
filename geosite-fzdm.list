@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-fzdm
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,fffdm.com
+DOMAIN-SUFFIX,fzdm.com

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-vrzwk
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,vrzwk.cn
+DOMAIN-SUFFIX,vrzwk.com
+DOMAIN-SUFFIX,vrzwk.net
+DOMAIN-SUFFIX,vrzwk.top

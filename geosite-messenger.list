@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-messenger
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,fbmessenger.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,nbabot.net

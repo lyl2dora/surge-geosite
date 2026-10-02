@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-creativecommons
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,ccstatic.org
+DOMAIN-SUFFIX,creativecommons.engineering
+DOMAIN-SUFFIX,creativecommons.org
+DOMAIN-SUFFIX,licensebuttons.net

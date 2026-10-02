@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-pugpig
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,pugpig-dev.com
+DOMAIN-SUFFIX,pugpig-stage.com
+DOMAIN-SUFFIX,pugpig.com

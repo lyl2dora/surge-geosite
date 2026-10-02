@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-mozilla@ads
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN,ads-img.mozilla.org
+DOMAIN,ads.mozilla.org
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org

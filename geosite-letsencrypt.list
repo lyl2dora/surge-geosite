@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-letsencrypt
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,letsencrypt.com
+DOMAIN-SUFFIX,letsencrypt.org

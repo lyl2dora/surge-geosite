@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-matters
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,matters.news
+DOMAIN-SUFFIX,matters.one
+DOMAIN-SUFFIX,matters.town
+DOMAIN-SUFFIX,mattersprotocol.io

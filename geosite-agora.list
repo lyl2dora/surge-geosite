@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-agora
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,agora.io
+DOMAIN-SUFFIX,agoraio.cn
+DOMAIN-SUFFIX,agoralab.co

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-asproex
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,asproex.com
+DOMAIN-SUFFIX,asproexapi.com

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-coolapk
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,coolapk.com
+DOMAIN-SUFFIX,coolapkmarket.com
+DOMAIN-SUFFIX,coolapkmarket.net

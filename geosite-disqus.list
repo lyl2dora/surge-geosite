@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-disqus
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,disq.us
+DOMAIN-SUFFIX,disqus.com
+DOMAIN-SUFFIX,disquscdn.com
+DOMAIN-SUFFIX,disqusservice.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-typekit
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,typekit.com
+DOMAIN-SUFFIX,typekit.net

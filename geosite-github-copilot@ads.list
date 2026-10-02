@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-github-copilot@ads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN,copilot-telemetry-service.githubusercontent.com
+DOMAIN,copilot-telemetry.githubusercontent.com

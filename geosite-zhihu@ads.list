@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-zhihu@ads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,crash2.zhihu.com
+DOMAIN-SUFFIX,zhihu-web-analytics.zhihu.com

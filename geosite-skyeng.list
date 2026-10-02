@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-skyeng
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,sky.pro
+DOMAIN-SUFFIX,skyeng.ru

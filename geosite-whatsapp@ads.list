@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-whatsapp@ads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,graph.whatsapp.com
+DOMAIN-SUFFIX,graph.whatsapp.net

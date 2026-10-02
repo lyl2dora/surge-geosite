@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-category-number-verification-cn
+# Source: v2fly/domain-list-community
+# Rules: 6 (regexp dropped 1)
+DOMAIN-SUFFIX,cmpassport.com
+DOMAIN,enrichgw.10010.com
+DOMAIN,hap.10010.com
+DOMAIN,hs.wosms.cn
+DOMAIN,id6.me
+DOMAIN,opencloud.wostore.cn

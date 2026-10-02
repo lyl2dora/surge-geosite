@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-taomee
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,61.com
+DOMAIN-SUFFIX,taomee.com

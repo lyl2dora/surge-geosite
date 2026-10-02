@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-uber
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,uber-assets.com
+DOMAIN-SUFFIX,uber.com
+DOMAIN-SUFFIX,ubereats.com

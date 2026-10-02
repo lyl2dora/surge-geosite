@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-jianshu
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,jianshu.com
+DOMAIN-SUFFIX,jianshu.io
+DOMAIN-SUFFIX,jianshuapi.com

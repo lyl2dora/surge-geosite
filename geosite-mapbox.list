@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-mapbox
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,mapbox.cn
+DOMAIN-SUFFIX,mapbox.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-mihoyo@ads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN-SUFFIX,log-upload.mihoyo.com

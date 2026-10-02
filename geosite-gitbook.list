@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-gitbook
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,gitbook.com
+DOMAIN-SUFFIX,gitbook.io

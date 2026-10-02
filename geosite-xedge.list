@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-xedge
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,ganjiangvpn.com
+DOMAIN-SUFFIX,glxcc.net
+DOMAIN-SUFFIX,xedge.cc
+DOMAIN-SUFFIX,xn0.cc

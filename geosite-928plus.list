@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-928plus
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,928.plus
+DOMAIN-SUFFIX,zind.cloud

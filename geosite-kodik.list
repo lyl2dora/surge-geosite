@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-kodik
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,kodik-storage.com
+DOMAIN-SUFFIX,kodik.biz
+DOMAIN-SUFFIX,kodik.cc
+DOMAIN-SUFFIX,kodik.info
+DOMAIN-SUFFIX,kodikplayer.com

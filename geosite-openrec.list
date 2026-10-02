@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-openrec
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,openrec.tv
+DOMAIN,dqd0jw5gvbchn.cloudfront.net

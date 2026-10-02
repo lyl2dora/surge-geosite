@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-n26
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,n26.com
+DOMAIN-SUFFIX,number26.de
+DOMAIN-SUFFIX,tech26.de
