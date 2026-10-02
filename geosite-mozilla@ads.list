@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-mozilla@ads
+# Source: v2fly/domain-list-community
+# Domains: 4
+ads-img.mozilla.org
+ads.mozilla.org
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org

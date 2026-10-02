@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-discourse
+# Source: v2fly/domain-list-community
+# Domains: 3
+.discourse-cdn.com
+.discourse.group
+.discourse.org

@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-hinet-eca
+# Source: v2fly/domain-list-community
+# Domains: 5
+.eca.hinet.net
+.gtlsca.nat.gov.tw
+.pki.hinet.net
+.publicca.hinet.net
+.tls.hinet.net
