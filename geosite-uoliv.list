@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-uoliv
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,liv.ac.uk
+DOMAIN-SUFFIX,liverpool.ac.uk
+DOMAIN-SUFFIX,livinno.org
+DOMAIN-SUFFIX,opac-project.eu

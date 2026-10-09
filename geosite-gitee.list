@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-gitee
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,gitee.com
+DOMAIN-SUFFIX,gitee.io

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-kinopoisk
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,kinopoisk-ru.clstorage.net
+DOMAIN-SUFFIX,kinopoisk.ru

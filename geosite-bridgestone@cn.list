@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bridgestone@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bridgestone.cn
+DOMAIN-SUFFIX,bridgestone.com.cn
+DOMAIN-SUFFIX,nokiantyres.cn

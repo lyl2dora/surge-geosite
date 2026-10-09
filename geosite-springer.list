@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-springer
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,apress.com
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,wkap.nl

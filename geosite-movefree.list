@@ -1,0 +1,10 @@
+# Surge RULE-SET: geosite-movefree
+# Source: v2fly/domain-list-community
+# Rules: 7
+DOMAIN-SUFFIX,keepmovingwithmovefree.com
+DOMAIN-SUFFIX,move-free.net
+DOMAIN-SUFFIX,movefree.cn
+DOMAIN-SUFFIX,movefreeoffers.com
+DOMAIN-SUFFIX,movefreerewards.com
+DOMAIN-SUFFIX,movefrees.com
+DOMAIN-SUFFIX,schiffvitamins.com

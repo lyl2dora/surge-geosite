@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-freebuff
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,codebuff.com
+DOMAIN-SUFFIX,freebuff.com

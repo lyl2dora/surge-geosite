@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-linakesi
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,heiyu.space
+DOMAIN-SUFFIX,lazycat.cloud
+DOMAIN-SUFFIX,linakesi.cn
+DOMAIN-SUFFIX,linakesi.com

@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-rostelecom@ads
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,sentry.iptv.rt.ru

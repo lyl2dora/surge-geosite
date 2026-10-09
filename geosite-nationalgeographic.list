@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-nationalgeographic
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,natgeomaps.com
+DOMAIN-SUFFIX,nationalgeographic.com
+DOMAIN-SUFFIX,nationalgeographicpartners.com
+DOMAIN-SUFFIX,ngeo.com

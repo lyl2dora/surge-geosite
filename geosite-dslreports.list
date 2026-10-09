@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-dslreports
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,broadbandreports.com
+DOMAIN-SUFFIX,dslr.net
+DOMAIN-SUFFIX,dslreports.com

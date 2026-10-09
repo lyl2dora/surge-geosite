@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-thetype
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,thetype.cloud
+DOMAIN-SUFFIX,thetype.com
+DOMAIN-SUFFIX,typeisbeautiful.com

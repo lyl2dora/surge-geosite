@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-didi@!cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,didi-food.com
+DOMAIN-SUFFIX,didiaustralia.blog
+DOMAIN-SUFFIX,didiglobal.com
+DOMAIN-SUFFIX,didimobility.co.jp

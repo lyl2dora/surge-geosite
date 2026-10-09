@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-tiancity
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,tiancity.com
+DOMAIN-SUFFIX,tiancitycdn.com

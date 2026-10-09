@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-tesla@cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,tesla.cn
+DOMAIN-SUFFIX,tesla.com.cn
+DOMAIN-SUFFIX,teslamotors.cn
+DOMAIN-SUFFIX,teslamotors.com.cn

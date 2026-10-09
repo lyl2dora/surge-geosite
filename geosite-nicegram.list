@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-nicegram
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,adsgram.ai
+DOMAIN-SUFFIX,nicegram.app
+DOMAIN-SUFFIX,nicegram.cloud

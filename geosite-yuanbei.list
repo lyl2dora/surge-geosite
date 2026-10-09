@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-yuanbei
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,i2oo.cn
+DOMAIN-SUFFIX,laoban100.com
+DOMAIN-SUFFIX,shengyi.ai
+DOMAIN-SUFFIX,shengyizhuanjia.com
+DOMAIN-SUFFIX,yuanbei.biz

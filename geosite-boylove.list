@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-boylove
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,boylove.cc
+DOMAIN-SUFFIX,boylove.live
+DOMAIN-SUFFIX,boylove1.cc
+DOMAIN-SUFFIX,boyloves.cc
+DOMAIN-SUFFIX,fuhouse.club

@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-test
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,test.example.com

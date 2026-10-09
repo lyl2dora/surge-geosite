@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-imperialcollege
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,ic.ac.uk
+DOMAIN-SUFFIX,imperial.ac.uk
+DOMAIN-SUFFIX,imperialbusiness.school
+DOMAIN,imperial.insendi.com

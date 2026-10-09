@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-poe
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net

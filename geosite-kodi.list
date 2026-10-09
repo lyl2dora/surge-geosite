@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-kodi
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,kodi.tv
+DOMAIN-SUFFIX,kodi.wiki

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-discourse
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,discourse-cdn.com
+DOMAIN-SUFFIX,discourse.group
+DOMAIN-SUFFIX,discourse.org

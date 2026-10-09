@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-windsurf
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,codeium.com
+DOMAIN-SUFFIX,codeiumdata.com
+DOMAIN-SUFFIX,windsurf.build
+DOMAIN-SUFFIX,windsurf.com

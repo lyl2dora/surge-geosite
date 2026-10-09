@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-bootstrap
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,bootstrapcdn.com
+DOMAIN-SUFFIX,getbootstrap.com

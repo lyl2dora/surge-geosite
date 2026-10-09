@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cybertrust
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cybertrust.co.jp
+DOMAIN-SUFFIX,cybertrust.ne.jp

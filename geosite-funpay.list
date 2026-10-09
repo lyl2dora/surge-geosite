@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-funpay
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,funpay.com
+DOMAIN-SUFFIX,funpay.ru
+DOMAIN-SUFFIX,sfunpay.com

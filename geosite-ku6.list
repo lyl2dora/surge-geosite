@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-ku6
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ku6.com
+DOMAIN-SUFFIX,ku6cdn.com
+DOMAIN-SUFFIX,ku6img.com

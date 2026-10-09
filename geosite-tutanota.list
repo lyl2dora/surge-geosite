@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-tutanota
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,keemail.me
+DOMAIN-SUFFIX,tuta.com
+DOMAIN-SUFFIX,tuta.io
+DOMAIN-SUFFIX,tutamail.com
+DOMAIN-SUFFIX,tutanota.com
+DOMAIN-SUFFIX,tutanota.de

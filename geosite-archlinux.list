@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-archlinux
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,archlinux.de
+DOMAIN-SUFFIX,archlinux.org
+DOMAIN-SUFFIX,archlinux.page
+DOMAIN-SUFFIX,archlinuxarm.org
+DOMAIN-SUFFIX,archlinuxcn.org
+DOMAIN-SUFFIX,pkgbuild.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cnb
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cnb.cool
+DOMAIN-SUFFIX,cnb.space
