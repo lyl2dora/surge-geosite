@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-jsdelivr
+# Source: v2fly/domain-list-community
+# Domains: 3
+.esm.run
+.jsdelivr.com
+.jsdelivr.net

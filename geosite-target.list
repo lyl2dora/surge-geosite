@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-target
+# Source: v2fly/domain-list-community
+# Domains: 3
+.target
+.target.com
+.targetimg1.com

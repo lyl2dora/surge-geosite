@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-category-companies@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 6
+.cafe.github.com
+.collector.github.com
+copilot-telemetry-service.githubusercontent.com
+copilot-telemetry.githubusercontent.com
+incoming-telemetry.thunderbird.net
+incoming.telemetry.mozilla.org
