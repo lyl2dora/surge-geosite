@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-disqus
+# Source: v2fly/domain-list-community
+# Domains: 4
+.disq.us
+.disqus.com
+.disquscdn.com
+.disqusservice.com

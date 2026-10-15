@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-anaconda
+# Source: v2fly/domain-list-community
+# Domains: 4
+.anaconda.cloud
+.anaconda.com
+.anaconda.org
+.conda.io
