@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-mozilla@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN,incoming-telemetry.thunderbird.net
+DOMAIN,incoming.telemetry.mozilla.org

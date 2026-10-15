@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-adjust
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,adjust.com
+DOMAIN-SUFFIX,adjust.io
+DOMAIN-SUFFIX,adjust.net.in
+DOMAIN-SUFFIX,adjust.world

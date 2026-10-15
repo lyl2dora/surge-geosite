@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-betboom
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,betboom.ru
+DOMAIN-SUFFIX,mobile-bb.com

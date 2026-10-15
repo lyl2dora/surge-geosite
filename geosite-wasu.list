@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-wasu
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,aichongzoo.cn
+DOMAIN-SUFFIX,hzdtv.tv
+DOMAIN-SUFFIX,hzman.net
+DOMAIN-SUFFIX,wasu.cn
+DOMAIN-SUFFIX,wasu.tv
+DOMAIN-SUFFIX,wasumedia.cn

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-openai@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN,browser-intake-datadoghq.com
+DOMAIN,o33249.ingest.sentry.io
+DOMAIN,openai.qualtrics.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-eneba
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,eneba.com
+DOMAIN-SUFFIX,eneba.games

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-tokyo-sports
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+DOMAIN-SUFFIX,tospo-keiba.jp

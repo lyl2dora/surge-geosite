@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-akiko
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,akikocorp.cn
+DOMAIN-SUFFIX,emoriko.com
+DOMAIN-SUFFIX,sukasuka.cn

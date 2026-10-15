@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-theinitium
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,init.shop
+DOMAIN-SUFFIX,theinitium.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-proquest
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,serialssolutions.com

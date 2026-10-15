@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-scmp
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,i-scmp.com
+DOMAIN-SUFFIX,scmp.com

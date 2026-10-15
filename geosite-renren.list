@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-renren
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,renren-inc.com
+DOMAIN-SUFFIX,renren.com

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-regru
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,reg.cloud
+DOMAIN-SUFFIX,reg.com
+DOMAIN-SUFFIX,reg.ru

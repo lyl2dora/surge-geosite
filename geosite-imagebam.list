@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-imagebam
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,imagebam.com

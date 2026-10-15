@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-chinamobile@!cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,speedtest.hk.chinamobile.com
+DOMAIN-SUFFIX,speedtestbb.hk.chinamobile.com

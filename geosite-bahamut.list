@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-bahamut
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,bahamut.akamaized.net
+DOMAIN-SUFFIX,bahamut.com.tw
+DOMAIN-SUFFIX,gamer.com.tw
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net

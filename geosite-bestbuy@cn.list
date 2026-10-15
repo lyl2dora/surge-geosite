@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bestbuy@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bestbuy.cn
+DOMAIN-SUFFIX,bestbuy.com.cn
+DOMAIN-SUFFIX,magnoliaav.com.cn

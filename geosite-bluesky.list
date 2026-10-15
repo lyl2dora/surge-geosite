@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bluesky
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bsky.app
+DOMAIN-SUFFIX,bsky.network
+DOMAIN-SUFFIX,bsky.social

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-veet@cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,veet.cn
+DOMAIN-SUFFIX,veet.com.cn

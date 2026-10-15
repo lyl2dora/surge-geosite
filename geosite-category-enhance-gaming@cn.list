@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-category-enhance-gaming@cn
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,heavenlywind.cc
+DOMAIN-SUFFIX,ldmnq.com
+DOMAIN-SUFFIX,lsplayer.com
+DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,steampp.net
+DOMAIN-SUFFIX,yeshen.com

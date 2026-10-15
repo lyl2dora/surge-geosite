@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-javcc
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,javcc.cc
+DOMAIN-SUFFIX,javcc.com

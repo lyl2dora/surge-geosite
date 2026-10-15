@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-51job
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,51job.com
+DOMAIN-SUFFIX,51jobcdn.com
+DOMAIN-SUFFIX,yingjiesheng.com
+DOMAIN-SUFFIX,yingjiesheng.net
+DOMAIN-SUFFIX,zhiding.com.cn

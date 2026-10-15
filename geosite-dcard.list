@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-dcard
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,dcard.cc
+DOMAIN-SUFFIX,dcard.io
+DOMAIN-SUFFIX,dcard.link
+DOMAIN-SUFFIX,dcard.tw

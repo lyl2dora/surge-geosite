@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-meadjohnson@cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,enfinitas.com.cn
+DOMAIN-SUFFIX,meadjohnson.com.cn
