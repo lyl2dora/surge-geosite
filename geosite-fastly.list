@@ -1,0 +1,10 @@
+# Surge DOMAIN-SET: geosite-fastly
+# Source: v2fly/domain-list-community
+# Domains: 7
+.fastly-edge.com
+.fastly-terrarium.com
+.fastly.com
+.fastly.io
+.fastly.net
+.fastlylabs.com
+.fastlylb.net

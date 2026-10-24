@@ -1,0 +1,19 @@
+# Surge DOMAIN-SET: geosite-dropbox
+# Source: v2fly/domain-list-community
+# Domains: 16
+.db.tt
+.dropbox-dns.com
+.dropbox.com
+.dropbox.tech
+.dropboxapi.com
+.dropboxbusiness.com
+.dropboxcaptcha.com
+.dropboxforum.com
+.dropboxforums.com
+.dropboxinsiders.com
+.dropboxmail.com
+.dropboxpartners.com
+.dropboxstatic.com
+.dropboxusercontent.com
+.getdropbox.com
+paper-attachments.s3.amazonaws.com
