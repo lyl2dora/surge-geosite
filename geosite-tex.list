@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-tex
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,ctan.org
+DOMAIN-SUFFIX,latex-project.org
+DOMAIN-SUFFIX,miktex.org
+DOMAIN-SUFFIX,tug.org

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-rust
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,crates.io
+DOMAIN-SUFFIX,docs.rs
+DOMAIN-SUFFIX,rust-lang.org
+DOMAIN-SUFFIX,rustup.rs

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-taikang
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,taikang.com
+DOMAIN-SUFFIX,taikanglife.com
+DOMAIN-SUFFIX,taikangzhijia.com
+DOMAIN-SUFFIX,tkhealthcare.com

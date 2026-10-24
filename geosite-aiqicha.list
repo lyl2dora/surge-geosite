@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-aiqicha
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,aiqicha.baidu.com
+DOMAIN-SUFFIX,aiqicha.cn
+DOMAIN-SUFFIX,aiqicha.com

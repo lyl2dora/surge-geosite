@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-kindle@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,kindle.cn
+DOMAIN-SUFFIX,kindleoasis.cn
+DOMAIN-SUFFIX,kindleoasis.com.cn

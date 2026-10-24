@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-ciweimao
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ciweimao.com
+DOMAIN-SUFFIX,hbooker.com
+DOMAIN-SUFFIX,kuangxiangit.com

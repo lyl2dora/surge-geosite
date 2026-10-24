@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-7tv
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,7tv.app
+DOMAIN-SUFFIX,7tv.io

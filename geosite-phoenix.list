@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-phoenix
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,fengcx.com
+DOMAIN-SUFFIX,fengedu.com
+DOMAIN-SUFFIX,ifeng.com
+DOMAIN-SUFFIX,ifengimg.com
+DOMAIN-SUFFIX,ifengweekly.com
+DOMAIN-SUFFIX,phoenixcenter.cn

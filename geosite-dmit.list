@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-dmit
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,dmit.io
+DOMAIN-SUFFIX,dmit.sh

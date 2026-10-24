@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-ideco-ru
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ideco.dev
+DOMAIN-SUFFIX,ideco.ru
+DOMAIN-SUFFIX,idecosoftware.ru

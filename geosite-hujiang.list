@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-hujiang
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,cctalk.com
+DOMAIN-SUFFIX,hjapi.com
+DOMAIN-SUFFIX,hjfile.cn
+DOMAIN-SUFFIX,hujiang.com
+DOMAIN-SUFFIX,yeshj.com

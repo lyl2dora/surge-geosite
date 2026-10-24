@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-chatwhores
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,chatwhores.com
+DOMAIN-SUFFIX,chatwhores.net
+DOMAIN-SUFFIX,chatwhores.org
+DOMAIN-SUFFIX,chatwhores.sex
+DOMAIN-SUFFIX,chatwhores.tv

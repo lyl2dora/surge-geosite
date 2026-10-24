@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-embedly
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,embed.ly
+DOMAIN-SUFFIX,embedly.com
+DOMAIN-SUFFIX,playerjs.io

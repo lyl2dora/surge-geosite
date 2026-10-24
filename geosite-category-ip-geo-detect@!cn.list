@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-category-ip-geo-detect@!cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,myip.la

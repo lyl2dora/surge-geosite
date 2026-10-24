@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-boxun
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,bowenpress.com
+DOMAIN-SUFFIX,boxun.com

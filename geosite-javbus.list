@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-javbus
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,javbus.com
+DOMAIN-SUFFIX,javbus22.com
+DOMAIN-SUFFIX,javcdn.cc

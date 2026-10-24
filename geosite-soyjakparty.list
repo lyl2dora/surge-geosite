@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-soyjakparty
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,soyjak.party
+DOMAIN-SUFFIX,soyjak.st

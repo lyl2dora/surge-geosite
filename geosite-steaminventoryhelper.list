@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-steaminventoryhelper
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,sih-db.com
+DOMAIN-SUFFIX,sih.app
+DOMAIN-SUFFIX,steaminventoryhelper.com

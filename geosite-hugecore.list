@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-hugecore
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,hugecore.net
+DOMAIN-SUFFIX,mojidict.com
+DOMAIN-SUFFIX,shareintelli.com

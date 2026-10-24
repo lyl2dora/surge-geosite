@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-acfun@ads
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,apilog-web.acfun.cn

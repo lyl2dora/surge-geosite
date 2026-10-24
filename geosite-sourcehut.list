@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-sourcehut
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,sourcehut.org
+DOMAIN-SUFFIX,sr.ht

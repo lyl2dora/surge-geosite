@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-kuwo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,koowo.cn
+DOMAIN-SUFFIX,koowo.com
+DOMAIN-SUFFIX,kuwo.cn
