@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-xiaomi-iot
+# Source: v2fly/domain-list-community
+# Domains: 4
+.account.xiaomi.com
+.cn-ha.mqtt.io.mi.com
+.ha.api.io.mi.com
+.miot-spec.org

@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-category-telemetry@cn
+# Source: v2fly/domain-list-community
+# Domains: 4
+.cloudflareinsights-cn.com
+crashlyticsreports-pa.googleapis.com
+firebase-settings.crashlytics.com
+update.crashlytics.com

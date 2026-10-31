@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-iqiyi@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 2
+.ifacelog.iqiyi.com
+.mbdlog.iqiyi.com

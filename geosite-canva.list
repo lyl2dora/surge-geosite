@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-canva
+# Source: v2fly/domain-list-community
+# Domains: 6
+.affinity-beta.s3.amazonaws.com
+.affinity-lessons.s3.amazonaws.com
+.affinity.api.serifservices.com
+.affinity.studio
+.canva.com
+.canvastatus.com

@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-perplexity
+# Source: v2fly/domain-list-community
+# Domains: 5
+.perplexity.ai
+.perplexity.com
+ppl-ai-file-upload.s3.amazonaws.com
+pplx-res.cloudinary.com
+.pplx.ai
