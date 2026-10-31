@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-okko
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,okko.sport
+DOMAIN-SUFFIX,okko.tv
+DOMAIN-SUFFIX,okkoapi.tv
+DOMAIN-SUFFIX,playfamily.ru

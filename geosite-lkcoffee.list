@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-lkcoffee
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,lkcoffee.com
+DOMAIN-SUFFIX,luckincoffeecdn.com
+DOMAIN-SUFFIX,yyds.co

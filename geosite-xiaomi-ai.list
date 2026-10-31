@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-xiaomi-ai
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,miaibox.com
+DOMAIN-SUFFIX,xiaoaiassist.com
+DOMAIN-SUFFIX,xiaomimimo.com

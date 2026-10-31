@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-bilibili@!cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,bilibili.tv
+DOMAIN-SUFFIX,biliintl.com
+DOMAIN-SUFFIX,dreamcast.hk
+DOMAIN,upos-hz-mirrorakam.akamaized.net

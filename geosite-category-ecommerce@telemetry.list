@@ -1,0 +1,10 @@
+# Surge RULE-SET: geosite-category-ecommerce@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 7
+DOMAIN,analytics-stage.wildberries.ru
+DOMAIN,analytics.wildberries.ru
+DOMAIN,marketplace-sentry.wb.ru
+DOMAIN,sentry.ozon.ru
+DOMAIN,sentry.wb.ru
+DOMAIN,stats.avito.ru
+DOMAIN,web-analytics.wildberries.ru

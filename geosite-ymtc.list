@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-ymtc
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ymtc.cn
+DOMAIN-SUFFIX,ymtc.com
+DOMAIN-SUFFIX,ymtc.com.cn

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-hkbu
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,hkbu.edu.hk
+DOMAIN-SUFFIX,hkbu.hk
+DOMAIN-SUFFIX,xn--pssu7ci3q5oge0ai91q.xn--j6w193g

@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-category-orgs@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,sentry.ppy.sh

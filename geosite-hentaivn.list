@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-hentaivn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,hentaivn.de
+DOMAIN-SUFFIX,hentaivn.la
+DOMAIN-SUFFIX,hentaivn.net
+DOMAIN-SUFFIX,htvncdn.net

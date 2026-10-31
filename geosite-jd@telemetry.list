@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-jd@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,stat.m.jd.com

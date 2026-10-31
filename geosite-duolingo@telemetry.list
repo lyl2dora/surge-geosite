@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-duolingo@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,analytics.vpc.duolingo.com
+DOMAIN-SUFFIX,metrics.duolingo.com

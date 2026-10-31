@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-readthedocs
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,readthedocs-hosted.com
+DOMAIN-SUFFIX,readthedocs.com
+DOMAIN-SUFFIX,readthedocs.io
+DOMAIN-SUFFIX,readthedocs.org

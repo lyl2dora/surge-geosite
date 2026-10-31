@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-java
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,java
+DOMAIN-SUFFIX,java.com
+DOMAIN-SUFFIX,java.net

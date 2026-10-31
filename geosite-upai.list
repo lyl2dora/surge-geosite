@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-upai
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,aicdn.com
+DOMAIN-SUFFIX,oncdp.com
+DOMAIN-SUFFIX,upai.com
+DOMAIN-SUFFIX,upaiyun.com
+DOMAIN-SUFFIX,upcdn.net
+DOMAIN-SUFFIX,upyun.com

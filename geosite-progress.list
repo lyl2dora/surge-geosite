@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-progress
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,chef.io
+DOMAIN-SUFFIX,getfiddler.com
+DOMAIN-SUFFIX,kemptechnologies.com
+DOMAIN-SUFFIX,progress.com
+DOMAIN-SUFFIX,sharefile.com
+DOMAIN-SUFFIX,telerik.com

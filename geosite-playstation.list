@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-playstation
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,playstation
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstationnetwork.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com

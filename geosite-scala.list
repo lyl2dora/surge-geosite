@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-scala
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,scala-lang.org
+DOMAIN-SUFFIX,scala-sbt.org

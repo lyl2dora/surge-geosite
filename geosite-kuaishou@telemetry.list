@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-kuaishou@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN,apilog-web.acfun.cn
+DOMAIN,log-sdk.gifshow.com
+DOMAIN,wlog.kuaishou.com

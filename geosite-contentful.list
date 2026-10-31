@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-contentful
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,contentful.com
+DOMAIN-SUFFIX,ctfassets.net

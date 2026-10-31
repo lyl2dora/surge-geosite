@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-mydirtyhobby
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,mdhcdn.com
+DOMAIN-SUFFIX,mydirtyhobby.com

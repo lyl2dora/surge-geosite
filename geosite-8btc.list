@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-8btc
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,8btc.com
+DOMAIN-SUFFIX,bystack.com
+DOMAIN-SUFFIX,chainnode.com
+DOMAIN-SUFFIX,matpool.com
+DOMAIN-SUFFIX,matpool.net

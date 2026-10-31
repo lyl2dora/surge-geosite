@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-category-forums-ir
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,quera.ir
+DOMAIN-SUFFIX,quera.org

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-azure@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,in.applicationinsights.azure.com
+DOMAIN,dc.applicationinsights.azure.com
+DOMAIN,live.applicationinsights.azure.com

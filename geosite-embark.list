@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-embark
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,arcraiders.com
+DOMAIN-SUFFIX,embark-studios.com
+DOMAIN-SUFFIX,embark.games
+DOMAIN-SUFFIX,reachthefinals.com

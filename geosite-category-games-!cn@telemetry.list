@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-category-games-!cn@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,insights-collector.gog.com
+DOMAIN-SUFFIX,log-upload-os.hoyoverse.com
+DOMAIN,sentry.ppy.sh

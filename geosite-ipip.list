@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-ipip
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,ipip.net
+DOMAIN-SUFFIX,myip.la

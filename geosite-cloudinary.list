@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cloudinary
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudinary.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-apa
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,apa.org
+DOMAIN-SUFFIX,psyccareers.com

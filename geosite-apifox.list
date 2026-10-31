@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-apifox
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,apifox.cn
+DOMAIN-SUFFIX,apifox.com

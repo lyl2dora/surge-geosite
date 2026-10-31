@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-meizu
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,flyme.cn
+DOMAIN-SUFFIX,flyme.com
+DOMAIN-SUFFIX,flymeauto.com
+DOMAIN-SUFFIX,meizu.cn
+DOMAIN-SUFFIX,meizu.com
+DOMAIN-SUFFIX,mzres.com
