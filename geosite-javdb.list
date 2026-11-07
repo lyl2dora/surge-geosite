@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-javdb
+# Source: v2fly/domain-list-community
+# Rules: 4 (regexp dropped 1)
+DOMAIN-SUFFIX,jav.app
+DOMAIN-SUFFIX,javdb.com
+DOMAIN-SUFFIX,jdbimgs.com
+DOMAIN-SUFFIX,jdbstatic.com

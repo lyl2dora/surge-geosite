@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-deezer
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,deezer.com
+DOMAIN-SUFFIX,dzcdn.net

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-category-food-cn@ads
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,logger.qmai.cn
+DOMAIN-SUFFIX,tracking.mcdonalds.com.cn
+DOMAIN-SUFFIX,trackingprd.hwwt8.com
+DOMAIN-SUFFIX,trackserver.shuxinyc.com

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-polocloud
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,polocloud.net
+DOMAIN-SUFFIX,polocloud.xyz

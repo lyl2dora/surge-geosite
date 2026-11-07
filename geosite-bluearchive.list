@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bluearchive
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bluearchive-cn.com
+DOMAIN-SUFFIX,bluearchive.jp
+DOMAIN-SUFFIX,bluearchive.nexon.com

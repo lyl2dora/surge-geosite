@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-ggsel
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,ggsel.com
+DOMAIN-SUFFIX,ggsel.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-smtiaojiaoshi
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,jhxl.org
+DOMAIN-SUFFIX,xn--sgt856gbjl.cc

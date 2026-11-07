@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-shanbay
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,baydn.com
+DOMAIN-SUFFIX,shanbay.com

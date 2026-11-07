@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-xai
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,grok.com
+DOMAIN-SUFFIX,grok.x.com
+DOMAIN-SUFFIX,grokipedia.com
+DOMAIN-SUFFIX,x.ai

@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-bilibili-game
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,bilibiligame.cn
+DOMAIN-SUFFIX,bilibiligame.co
+DOMAIN-SUFFIX,bilibiligame.net
+DOMAIN-SUFFIX,biligame.co
+DOMAIN-SUFFIX,biligame.com
+DOMAIN-SUFFIX,biligame.net

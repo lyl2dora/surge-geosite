@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-kindle4rss
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,kindle4rss.com

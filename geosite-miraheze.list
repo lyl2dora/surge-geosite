@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-miraheze
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,miraheze.org

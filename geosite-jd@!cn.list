@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-jd@!cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,jd.co.th
+DOMAIN-SUFFIX,jd.hk
+DOMAIN-SUFFIX,jd.id
+DOMAIN-SUFFIX,jd.ru

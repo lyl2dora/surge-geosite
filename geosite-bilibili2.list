@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bilibili2
+# Source: v2fly/domain-list-community
+# Rules: 3 (regexp dropped 1)
+DOMAIN-SUFFIX,bili2.cc
+DOMAIN-SUFFIX,bili888.com
+DOMAIN-SUFFIX,bili999.com

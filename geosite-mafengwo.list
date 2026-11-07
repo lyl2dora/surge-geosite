@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-mafengwo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,mafengwo.cn
+DOMAIN-SUFFIX,mafengwo.com
+DOMAIN-SUFFIX,mafengwo.net

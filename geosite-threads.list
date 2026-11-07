@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-threads
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,threads.com
+DOMAIN-SUFFIX,threads.net

@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-godaddy
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,godaddy
+DOMAIN-SUFFIX,godaddy.com
+DOMAIN-SUFFIX,godaddy.net
+DOMAIN-SUFFIX,wsimg.com
+DOMAIN-SUFFIX,x.co

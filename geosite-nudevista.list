@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-nudevista
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,nudevista.com
+DOMAIN-SUFFIX,nudevista.es
+DOMAIN-SUFFIX,nudevista.net
+DOMAIN-SUFFIX,nudevista.vip

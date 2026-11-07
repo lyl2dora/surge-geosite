@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-ifast@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,ifastps.com.cn

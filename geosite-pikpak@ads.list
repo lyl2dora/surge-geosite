@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-pikpak@ads
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,o4504926511693824.ingest.sentry.io

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-anthropic@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN,http-intake.logs.us5.datadoghq.com
+DOMAIN,o1158394.ingest.us.sentry.io

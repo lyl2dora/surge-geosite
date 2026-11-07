@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-imgur
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,imgur.io
+DOMAIN-SUFFIX,imgurinc.com

@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-cnbc
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cnbcfm.com
+DOMAIN-SUFFIX,nbcudigitaladops.com
+DOMAIN-SUFFIX,nbcuni.com

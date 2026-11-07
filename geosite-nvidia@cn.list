@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-nvidia@cn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,geforce.cn
+DOMAIN-SUFFIX,gputechconf.cn
+DOMAIN-SUFFIX,nvidia.cn
+DOMAIN,cn.download.nvidia.com

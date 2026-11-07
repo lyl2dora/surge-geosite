@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-n3ro
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,n3ro.lol
+DOMAIN-SUFFIX,n3ro.net
+DOMAIN-SUFFIX,n3ro.wtf

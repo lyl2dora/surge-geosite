@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-zeplin
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,zeplin.dev
+DOMAIN-SUFFIX,zeplin.io

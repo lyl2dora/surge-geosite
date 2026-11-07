@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-yahoo@cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,yahoo.cn
+DOMAIN-SUFFIX,yahoo.com.cn
