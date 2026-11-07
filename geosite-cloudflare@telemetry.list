@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-cloudflare@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 2
+.cloudflareinsights-cn.com
+.cloudflareinsights.com

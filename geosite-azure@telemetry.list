@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-azure@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 3
+dc.applicationinsights.azure.com
+.in.applicationinsights.azure.com
+live.applicationinsights.azure.com

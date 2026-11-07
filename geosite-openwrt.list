@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-openwrt
+# Source: v2fly/domain-list-community
+# Domains: 2
+.lede-project.org
+.openwrt.org

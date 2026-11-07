@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-meta@ads
+# Source: v2fly/domain-list-community
+# Domains: 5
+.analytics.facebook.com
+.facebookads.com
+.graph-fallback.instagram.com
+.graph.instagram.com
+.pixel.facebook.com

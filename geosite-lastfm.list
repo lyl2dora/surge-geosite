@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-lastfm
+# Source: v2fly/domain-list-community
+# Domains: 4
+.last.fm
+lastfm-img.freetls.fastly.net
+lastfm.freetls.fastly.net
+ws.audioscrobbler.com

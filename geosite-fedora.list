@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-fedora
+# Source: v2fly/domain-list-community
+# Domains: 6
+.fedoraforum.org
+.fedorainfracloud.org
+.fedoramagazine.org
+.fedorapeople.org
+.fedoraproject.org
+.getfedora.org
