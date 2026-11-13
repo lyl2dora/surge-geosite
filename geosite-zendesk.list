@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-zendesk
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,outbound.io
+DOMAIN-SUFFIX,zdassets.com
+DOMAIN-SUFFIX,zdusercontent.com
+DOMAIN-SUFFIX,zendesk.com
+DOMAIN-SUFFIX,zndsk.com
+DOMAIN-SUFFIX,zopim.com

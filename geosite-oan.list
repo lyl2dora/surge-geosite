@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-oan
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,aweencore.com
+DOMAIN-SUFFIX,awetv.com
+DOMAIN-SUFFIX,herringnetwork.com
+DOMAIN-SUFFIX,oanencore.com
+DOMAIN-SUFFIX,oann.com

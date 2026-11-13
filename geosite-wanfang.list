@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-wanfang
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,wanfangdata.com.cn
+DOMAIN-SUFFIX,wf.pub

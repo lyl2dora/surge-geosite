@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-microsoft-dev@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN,dc.services.visualstudio.com
+DOMAIN,rt.services.visualstudio.com

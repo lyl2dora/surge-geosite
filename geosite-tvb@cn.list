@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-tvb@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,tvbc.com.cn

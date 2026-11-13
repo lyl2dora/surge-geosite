@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-asobo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,asobostudio.com
+DOMAIN-SUFFIX,flightsimulator.com
+DOMAIN,flightsimulator.azureedge.net

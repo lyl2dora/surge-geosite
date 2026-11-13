@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-konachan
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,konachan.com
+DOMAIN-SUFFIX,konachan.net

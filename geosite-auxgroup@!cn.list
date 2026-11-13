@@ -1,0 +1,10 @@
+# Surge RULE-SET: geosite-auxgroup@!cn
+# Source: v2fly/domain-list-community
+# Rules: 7
+DOMAIN-SUFFIX,aufit-air.com
+DOMAIN-SUFFIX,aux-global.com
+DOMAIN-SUFFIX,auxair.com
+DOMAIN-SUFFIX,auxcac.cn
+DOMAIN-SUFFIX,auxsmart.com
+DOMAIN-SUFFIX,sanxingelectric.com
+DOMAIN-SUFFIX,shinflow.com

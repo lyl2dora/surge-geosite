@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-nikkan-gendai
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,gendai.net
+DOMAIN-SUFFIX,nikkan-gendai.com

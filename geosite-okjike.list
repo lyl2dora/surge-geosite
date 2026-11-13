@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-okjike
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,jike.city
+DOMAIN-SUFFIX,jikecdn.com
+DOMAIN-SUFFIX,okjike.com
+DOMAIN-SUFFIX,okjk.co
+DOMAIN-SUFFIX,ruguoapp.com

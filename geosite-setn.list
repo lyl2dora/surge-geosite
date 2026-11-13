@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-setn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,setn.com
+DOMAIN-SUFFIX,settv.com.tw

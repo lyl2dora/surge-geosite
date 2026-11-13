@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-jkf
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,jkf.net
+DOMAIN-SUFFIX,jkface.net
+DOMAIN-SUFFIX,jkforum.net
+DOMAIN-SUFFIX,jr24h.com
+DOMAIN-SUFFIX,jvid.com

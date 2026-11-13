@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-category-novel
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ptzwx.com
+DOMAIN-SUFFIX,quanben-xiaoshuo.com
+DOMAIN-SUFFIX,quanben.io

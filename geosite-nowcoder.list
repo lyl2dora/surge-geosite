@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-nowcoder
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,newcoder.com
+DOMAIN-SUFFIX,nowcoder.com
+DOMAIN-SUFFIX,nowcoder.net
+DOMAIN-SUFFIX,nowcoder.org

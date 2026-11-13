@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-blender
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bigbuckbunny.org
+DOMAIN-SUFFIX,blender.org
+DOMAIN-SUFFIX,elephantsdream.org

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-chinaz
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,chinaz.com
+DOMAIN-SUFFIX,chinaz.net

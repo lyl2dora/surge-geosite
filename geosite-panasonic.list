@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-panasonic
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,panasonic
+DOMAIN-SUFFIX,panasonic.cn
+DOMAIN-SUFFIX,panasonic.com
+DOMAIN-SUFFIX,panasonic.jp
+DOMAIN-SUFFIX,technics.com

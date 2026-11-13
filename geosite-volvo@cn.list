@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-volvo@cn
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,vfsco.com.cn
+DOMAIN-SUFFIX,volvo.cn
+DOMAIN-SUFFIX,volvo.com.cn
+DOMAIN-SUFFIX,volvogroup.cn
+DOMAIN-SUFFIX,volvogroup.com.cn
+DOMAIN-SUFFIX,volvotrucks.com.cn

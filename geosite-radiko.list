@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-radiko
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,radiko-cf.com
+DOMAIN-SUFFIX,radiko.jp
+DOMAIN-SUFFIX,smartstream.ne.jp

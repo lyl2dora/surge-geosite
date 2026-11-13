@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-cnbeta
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbeta.com.tw
+DOMAIN-SUFFIX,cnbetacdn.com

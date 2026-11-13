@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-canva
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,affinity-beta.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity-lessons.s3.amazonaws.com
+DOMAIN-SUFFIX,affinity.api.serifservices.com
+DOMAIN-SUFFIX,affinity.studio
+DOMAIN-SUFFIX,canva.com
+DOMAIN-SUFFIX,canvastatus.com

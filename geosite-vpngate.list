@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-vpngate
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,opengw.net
+DOMAIN-SUFFIX,vpngate.jp
+DOMAIN-SUFFIX,vpngate.net

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-termux
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,termux.com
+DOMAIN-SUFFIX,termux.dev
+DOMAIN-SUFFIX,termux.org

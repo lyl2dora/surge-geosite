@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-nexitally
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,nexitally.com
+DOMAIN-SUFFIX,nexitallysafe.com
+DOMAIN-SUFFIX,nexitcore.com

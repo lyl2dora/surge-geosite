@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-habr
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,habr.com
+DOMAIN-SUFFIX,habrastorage.org

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-polymer
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,polymer-project.org
+DOMAIN-SUFFIX,polymerproject.org

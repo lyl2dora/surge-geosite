@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-projectmoon
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,limbuscompany.global
+DOMAIN-SUFFIX,limbuscompanyapi.com
+DOMAIN-SUFFIX,limbuscompanycdn.org
+DOMAIN-SUFFIX,projectmoon.studio

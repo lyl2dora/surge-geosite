@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-gannett
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,gannett-cdn.com
+DOMAIN-SUFFIX,gannett.com
+DOMAIN-SUFFIX,gannettdigital.com
+DOMAIN-SUFFIX,usatoday.com
+DOMAIN-SUFFIX,usatodaynetworkservice.com

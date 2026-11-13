@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-braveux
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,braventures.com
+DOMAIN-SUFFIX,braveux.com
+DOMAIN-SUFFIX,compass.is
+DOMAIN-SUFFIX,fightforux.com
+DOMAIN-SUFFIX,forthebadge.com
+DOMAIN-SUFFIX,stockagainstphotography.com
