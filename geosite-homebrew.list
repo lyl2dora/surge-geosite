@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-homebrew
+# Source: v2fly/domain-list-community
+# Domains: 2
+.brew.sh
+homebrew.bintray.com
