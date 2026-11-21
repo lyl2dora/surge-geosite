@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-v2ray
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,v2fly.org
+DOMAIN-SUFFIX,v2ray.com
+DOMAIN-SUFFIX,v2ray.cool

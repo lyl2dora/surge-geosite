@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-category-bank-ru@ads
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,ads.sber.ru
+DOMAIN-SUFFIX,clickstream.sberbank.ru
+DOMAIN,visor.sberbank.ru

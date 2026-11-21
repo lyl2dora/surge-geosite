@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-tencent-games@!cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,levelinfinite.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,tencentgames.com

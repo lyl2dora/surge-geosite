@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-jable
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,cdnlab.live
+DOMAIN-SUFFIX,jable.tv
+DOMAIN-SUFFIX,mushroomtrack.com

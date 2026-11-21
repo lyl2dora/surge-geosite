@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-shuqi@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,shuqistat.com

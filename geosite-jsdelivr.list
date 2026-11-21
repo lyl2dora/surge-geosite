@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-jsdelivr
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,esm.run
+DOMAIN-SUFFIX,jsdelivr.com
+DOMAIN-SUFFIX,jsdelivr.net

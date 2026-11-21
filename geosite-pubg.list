@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-pubg
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,kraftonde.com
+DOMAIN-SUFFIX,playbattlegrounds.com
+DOMAIN-SUFFIX,pubg.com
+DOMAIN,pubg1.battleye.com

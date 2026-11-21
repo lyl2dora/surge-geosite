@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-kubernetes
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,k8s.io
+DOMAIN-SUFFIX,kubernetes.io

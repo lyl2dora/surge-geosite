@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-amd@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN,drivers.amd.com

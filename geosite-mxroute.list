@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-mxroute
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,mxlogin.com
+DOMAIN-SUFFIX,mxroute.com
+DOMAIN-SUFFIX,mxroutedocs.com
+DOMAIN-SUFFIX,mxroutehelp.com
+DOMAIN-SUFFIX,mxrouting.net

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-illgames
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,illgames.jp
+DOMAIN-SUFFIX,japan-illgames.com

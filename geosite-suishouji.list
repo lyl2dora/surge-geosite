@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-suishouji
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,feidee.cn
+DOMAIN-SUFFIX,feidee.com
+DOMAIN-SUFFIX,feidee.net
+DOMAIN-SUFFIX,ssjlicai.com
+DOMAIN-SUFFIX,sui.com

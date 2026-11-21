@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-costco
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,costco-static.com
+DOMAIN-SUFFIX,costco.com
+DOMAIN-SUFFIX,costcobusinessdelivery.com

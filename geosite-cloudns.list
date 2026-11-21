@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-cloudns
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,cloudns.nz
+DOMAIN-SUFFIX,cloudns.ph

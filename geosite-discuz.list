@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-discuz
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,comsenz.com
+DOMAIN-SUFFIX,discuz.net
+DOMAIN-SUFFIX,discuz.org

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-citic@!cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,citics.com.hk
+DOMAIN-SUFFIX,cncbinternational.com
+DOMAIN-SUFFIX,csci.hk

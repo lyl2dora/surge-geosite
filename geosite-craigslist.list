@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-craigslist
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,craigslist.org

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-snk
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,snk-corp.co.jp
+DOMAIN-SUFFIX,snk-corp.info
+DOMAIN-SUFFIX,snkplaymore.info

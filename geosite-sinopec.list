@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-sinopec
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,sinopec-usa.com
+DOMAIN-SUFFIX,sinopec.com
+DOMAIN-SUFFIX,sinopecgroup.com
+DOMAIN-SUFFIX,sinopecnews.com.cn
+DOMAIN-SUFFIX,sinopecsales.com

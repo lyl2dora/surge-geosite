@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-edx
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,edx-cdn.org
+DOMAIN-SUFFIX,edx.org

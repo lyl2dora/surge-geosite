@@ -1,0 +1,11 @@
+# Surge RULE-SET: geosite-oneplus
+# Source: v2fly/domain-list-community
+# Rules: 8
+DOMAIN-SUFFIX,h2os.com
+DOMAIN-SUFFIX,oneplus.cn
+DOMAIN-SUFFIX,oneplus.com
+DOMAIN-SUFFIX,oneplus.net
+DOMAIN-SUFFIX,oneplusbbs.com
+DOMAIN-SUFFIX,oneplusmobile.com
+DOMAIN-SUFFIX,opstatics.com
+DOMAIN,community.oneplus.com

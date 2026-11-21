@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-tidal
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,tidal.com
+DOMAIN-SUFFIX,tidalhifi.com
+DOMAIN-SUFFIX,wimpmusic.com

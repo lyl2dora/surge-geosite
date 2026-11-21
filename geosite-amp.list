@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-amp
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,amp.dev
+DOMAIN-SUFFIX,ampproject.com
+DOMAIN-SUFFIX,ampproject.net
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN,amp.akamaized.net
+DOMAIN,cdn.ampproject.org

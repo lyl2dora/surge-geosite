@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-okaapps
+# Source: v2fly/domain-list-community
+# Rules: 1 (regexp dropped 1)
+DOMAIN-SUFFIX,okaapps.com

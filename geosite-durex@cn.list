@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-durex@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,durex.com.cn
+DOMAIN-SUFFIX,durexchina.com.cn
+DOMAIN-SUFFIX,lovesexdurex.cn

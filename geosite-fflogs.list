@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-fflogs
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,fflogs.com
+DOMAIN-SUFFIX,rpglogs.cn
+DOMAIN-SUFFIX,rpglogs.com

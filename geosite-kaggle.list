@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-kaggle
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,kaggle.com
+DOMAIN-SUFFIX,kaggle.io
+DOMAIN-SUFFIX,kaggle.net
+DOMAIN-SUFFIX,kaggleusercontent.com

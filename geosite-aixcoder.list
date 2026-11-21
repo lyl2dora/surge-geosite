@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-aixcoder
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,aixcoder.com
+DOMAIN-SUFFIX,nnthink.com

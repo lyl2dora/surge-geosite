@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-westerndigital@cn
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,sandisk.cn

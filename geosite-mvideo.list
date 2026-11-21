@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-mvideo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,acmvid.com
+DOMAIN-SUFFIX,mvideo.ru
+DOMAIN,mvideo.edna.io

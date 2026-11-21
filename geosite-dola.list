@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-dola
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,cici.com
+DOMAIN-SUFFIX,ciciai.com
+DOMAIN-SUFFIX,ciciaicdn.com
+DOMAIN-SUFFIX,dola.com

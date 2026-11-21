@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-apkmirror
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,apkmirror.com
+DOMAIN,apkmirror.disqus.com
