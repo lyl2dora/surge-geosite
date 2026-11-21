@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-netease@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 4
+.analytics.163.com
+.crash.163.com
+.crashlytics.163.com
+.sentry.music.163.com

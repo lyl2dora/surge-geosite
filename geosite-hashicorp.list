@@ -1,0 +1,11 @@
+# Surge DOMAIN-SET: geosite-hashicorp
+# Source: v2fly/domain-list-community
+# Domains: 8
+.consul.io
+.hashicorp.com
+.nomadproject.io
+.packer.io
+.terraform.io
+.vagrantcloud.com
+.vagrantup.com
+.vaultproject.io

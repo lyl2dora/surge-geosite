@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-certum
+# Source: v2fly/domain-list-community
+# Domains: 3
+.certum.pl
+.ocsp-certum.com
+.ocsp-responder.com

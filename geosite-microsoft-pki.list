@@ -1,0 +1,9 @@
+# Surge DOMAIN-SET: geosite-microsoft-pki
+# Source: v2fly/domain-list-community
+# Domains: 6
+crl.microsoft.com
+mscrl.microsoft.com
+.msocsp.com
+ocsp.microsoft.com
+oneocsp.microsoft.com
+www.microsoft.com

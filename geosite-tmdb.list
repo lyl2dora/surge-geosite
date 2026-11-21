@@ -1,0 +1,7 @@
+# Surge DOMAIN-SET: geosite-tmdb
+# Source: v2fly/domain-list-community
+# Domains: 4
+.themoviedb.org
+tmdb-image-prod.b-cdn.net
+tmdb-web-image-prod.b-cdn.net
+.tmdb.org
