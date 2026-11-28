@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-wjx
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,sojump.com
+DOMAIN-SUFFIX,wjx.cn
+DOMAIN-SUFFIX,wjx.com
+DOMAIN-SUFFIX,wjx.top

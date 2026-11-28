@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-strikingly
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,mystrikingly.com
+DOMAIN-SUFFIX,strikingly.com
+DOMAIN-SUFFIX,strikinglycdn.com

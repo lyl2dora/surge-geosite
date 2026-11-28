@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-deepseek
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseeksvc.com

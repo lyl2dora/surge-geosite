@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-cnki
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,chndoi.org
+DOMAIN-SUFFIX,cnki.com.cn
+DOMAIN-SUFFIX,cnki.net

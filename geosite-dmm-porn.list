@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-dmm-porn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmmrex.com
+DOMAIN-SUFFIX,fanza.jp

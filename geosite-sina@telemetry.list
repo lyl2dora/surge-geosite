@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-sina@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,log.sina.cn
+DOMAIN-SUFFIX,log2.sina.cn
+DOMAIN-SUFFIX,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,slog.sina.cn
+DOMAIN-SUFFIX,slog.sina.com.cn

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-z3x-team
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,easy-jtag.com
+DOMAIN-SUFFIX,z3x-team.com

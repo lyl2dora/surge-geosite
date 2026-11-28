@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-jibencaozuo
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,jbcz.tv
+DOMAIN-SUFFIX,jibencaozuo.com
+DOMAIN-SUFFIX,media.paperclipclub.net

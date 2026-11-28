@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-jutongbao
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,guanggaotongapp.cn
+DOMAIN-SUFFIX,jutongbao.online
+DOMAIN-SUFFIX,jutongbao.top

@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-certinomis
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,certinomis.com
+DOMAIN-SUFFIX,certinomis.fr

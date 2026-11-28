@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-webflow
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,webflow-ext.com
+DOMAIN-SUFFIX,webflow.com
+DOMAIN-SUFFIX,webflow.io
+DOMAIN-SUFFIX,website-files.com

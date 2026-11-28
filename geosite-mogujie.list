@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-mogujie
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,mogu.com
+DOMAIN-SUFFIX,mogucdn.com
+DOMAIN-SUFFIX,mogujie.com

@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-debian
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,debian.map.fastlydns.net
+DOMAIN-SUFFIX,debian.org
+DOMAIN-SUFFIX,dotdeb.org

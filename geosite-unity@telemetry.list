@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-unity@telemetry
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,analytics.cloud.unity3d.com
+DOMAIN-SUFFIX,perf-events.cloud.unity3d.com
+DOMAIN-SUFFIX,perf.cloud.unity3d.com

@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-ficbook
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,fanfictionero.com
+DOMAIN-SUFFIX,fic.fan
+DOMAIN-SUFFIX,ficador.com
+DOMAIN-SUFFIX,ficbook.net
+DOMAIN-SUFFIX,ficmania.com
+DOMAIN-SUFFIX,teinon.net

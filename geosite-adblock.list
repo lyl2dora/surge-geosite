@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-adblock
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,adblockcdn.com
+DOMAIN-SUFFIX,getadblock.com

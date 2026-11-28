@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-adidas@cn
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,adidas.cn
+DOMAIN-SUFFIX,adidas.com.cn
+DOMAIN-SUFFIX,adidasspecialtysports.cn

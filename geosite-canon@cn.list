@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-canon@cn
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,canon.cn
+DOMAIN-SUFFIX,canon.com.cn

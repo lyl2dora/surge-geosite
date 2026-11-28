@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-plex
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,plex.com
+DOMAIN-SUFFIX,plex.services
+DOMAIN-SUFFIX,plex.tv
+DOMAIN-SUFFIX,plexapp.com

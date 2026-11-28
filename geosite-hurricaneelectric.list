@@ -1,0 +1,4 @@
+# Surge RULE-SET: geosite-hurricaneelectric
+# Source: v2fly/domain-list-community
+# Rules: 1
+DOMAIN-SUFFIX,he.net

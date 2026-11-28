@@ -1,0 +1,9 @@
+# Surge RULE-SET: geosite-quora
+# Source: v2fly/domain-list-community
+# Rules: 6
+DOMAIN-SUFFIX,poe.com
+DOMAIN-SUFFIX,poecdn.net
+DOMAIN-SUFFIX,qr.ae
+DOMAIN-SUFFIX,quora.com
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN,www.quora.com.cdn.cloudflare.net

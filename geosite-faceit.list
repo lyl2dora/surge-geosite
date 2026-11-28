@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-faceit
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,faceit-cdn.net
+DOMAIN-SUFFIX,faceit.com
+DOMAIN-SUFFIX,fce.gg

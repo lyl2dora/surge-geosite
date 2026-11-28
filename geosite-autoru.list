@@ -1,0 +1,8 @@
+# Surge RULE-SET: geosite-autoru
+# Source: v2fly/domain-list-community
+# Rules: 5
+DOMAIN-SUFFIX,apiauto.ru
+DOMAIN-SUFFIX,auto.ru
+DOMAIN-SUFFIX,autoru.me
+DOMAIN-SUFFIX,avto.ru
+DOMAIN-SUFFIX,cm.expert

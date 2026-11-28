@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-hubblephone
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,hubblephone.com
+DOMAIN-SUFFIX,tsi.ai

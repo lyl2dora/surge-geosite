@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-lastfm
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,last.fm
+DOMAIN,lastfm-img.freetls.fastly.net
+DOMAIN,lastfm.freetls.fastly.net
+DOMAIN,ws.audioscrobbler.com

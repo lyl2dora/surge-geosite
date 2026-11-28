@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-realtype
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,realtype.co.jp
+DOMAIN-SUFFIX,realtype.jp

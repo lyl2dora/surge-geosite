@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-udn
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udn.com.tw
+DOMAIN-SUFFIX,udndata.com
+DOMAIN-SUFFIX,udnfunlife.com

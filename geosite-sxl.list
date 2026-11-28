@@ -1,0 +1,7 @@
+# Surge RULE-SET: geosite-sxl
+# Source: v2fly/domain-list-community
+# Rules: 4
+DOMAIN-SUFFIX,mysxl.cn
+DOMAIN-SUFFIX,sxl.cn
+DOMAIN-SUFFIX,sxlcdn.cn
+DOMAIN-SUFFIX,sxlcdn.com

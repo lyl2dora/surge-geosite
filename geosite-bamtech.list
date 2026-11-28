@@ -1,0 +1,6 @@
+# Surge RULE-SET: geosite-bamtech
+# Source: v2fly/domain-list-community
+# Rules: 3
+DOMAIN-SUFFIX,bamgrid.com
+DOMAIN-SUFFIX,bamtech.net
+DOMAIN-SUFFIX,dmed.technology

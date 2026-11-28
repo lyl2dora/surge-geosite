@@ -1,0 +1,5 @@
+# Surge RULE-SET: geosite-spacex
+# Source: v2fly/domain-list-community
+# Rules: 2
+DOMAIN-SUFFIX,spacex.com
+DOMAIN-SUFFIX,starlink.com
