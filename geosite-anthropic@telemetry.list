@@ -1,0 +1,5 @@
+# Surge DOMAIN-SET: geosite-anthropic@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 2
+http-intake.logs.us5.datadoghq.com
+o1158394.ingest.us.sentry.io

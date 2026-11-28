@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-sber@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 5
+.clickstream.sberbank.ru
+error-tracking.megamarket.tech
+metrics.21-school.ru
+sentry.sberauto.com
+tracing-http.megamarket.tech

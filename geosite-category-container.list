@@ -1,0 +1,12 @@
+# Surge DOMAIN-SET: geosite-category-container
+# Source: v2fly/domain-list-community
+# Domains: 9 (regexp dropped 1)
+.azurecr.io
+.docker.io
+.ecr.aws
+.gcr.io
+.ghcr.io
+.mcr.microsoft.com
+.quay.io
+.registry.gitlab.com
+.registry.k8s.io

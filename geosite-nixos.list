@@ -1,0 +1,16 @@
+# Surge DOMAIN-SET: geosite-nixos
+# Source: v2fly/domain-list-community
+# Domains: 13
+.builtwithnix.org
+.cachix.org
+.mynixos.com
+nix-community.github.io
+.nix-community.org
+.nix.dev
+.nix.store
+.nixcon.org
+.nixcon2017.org
+.nixlang.com
+.nixos.org
+.nixos.wiki
+.nixpkgs.org

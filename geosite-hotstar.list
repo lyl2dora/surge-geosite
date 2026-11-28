@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-hotstar
+# Source: v2fly/domain-list-community
+# Domains: 5 (regexp dropped 1)
+.hotstar-cdn.net
+.hotstar-labs.com
+.hotstar.com
+.hotstarext.com
+.hsprepack.akamaized.net

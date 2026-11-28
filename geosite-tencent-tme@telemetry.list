@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-tencent-tme@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 3
+.monitor.music.qq.com
+.report.tencentmusic.com
+.stat.y.qq.com

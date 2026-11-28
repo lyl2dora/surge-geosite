@@ -1,0 +1,6 @@
+# Surge DOMAIN-SET: geosite-unity@telemetry
+# Source: v2fly/domain-list-community
+# Domains: 3
+.analytics.cloud.unity3d.com
+.perf-events.cloud.unity3d.com
+.perf.cloud.unity3d.com

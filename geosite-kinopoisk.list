@@ -1,0 +1,8 @@
+# Surge DOMAIN-SET: geosite-kinopoisk
+# Source: v2fly/domain-list-community
+# Domains: 5
+.kinopoisk-ru.clstorage.net
+.kinopoisk.ru
+kp-config-smart-tv.akamaized.net
+kp-configs-smart-tv.s3.eu-central-1.amazonaws.com
+.kp.yandex.net
